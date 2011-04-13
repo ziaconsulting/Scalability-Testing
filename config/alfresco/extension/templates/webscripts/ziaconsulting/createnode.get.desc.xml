@@ -1,0 +1,8 @@
+<webscript>
+    <shortname>Create node</shortname>
+    <description>Create node</description>
+    <family>ZiaConsulting</family>
+    <url>/ziaconsulting/createnode</url>
+    <format default="json">argument</format>
+  	<authentication>admin</authentication>
+</webscript>
